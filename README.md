@@ -7,7 +7,9 @@ This apps allow you to add Payplug hosting Payment in your website
 - Conversion des ventes : Boostez vos ventes grâce à nos pages de paiement responsive mobile
 - An account on Payplug must be created
 
- Technical Prerequisites: None
+More informations on https://www.payplug.com
+
+Technical Prerequisites: None
  
 
 Modules:

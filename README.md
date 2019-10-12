@@ -23,6 +23,7 @@ Recommendation and documentation specific use :
 
 
 Important Note :
+You must have composer installed on your server
 You must have an account at payplug.com
 
 licence  : GPL 2 - MIT
